@@ -1,8 +1,10 @@
 html, body {
-  margin: 0;
+  margin: 2%;
   padding: 0;
 }
 
 canvas {
   display: block;
+  /* border-style: solid; */
+  border: 5px solid black;
 }
